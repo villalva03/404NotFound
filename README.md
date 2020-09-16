@@ -2,7 +2,7 @@
 
 Solution for a challenge from Devchallenges.io
 
-(Demo) | [](Solution) | [https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY](Challenge)
+[Demo]() | [Solution]() | [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
 ## Built With
 
