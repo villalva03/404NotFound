@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/404NotFound/static/css/main.b11962fe.chunk.css",
+    "main.js": "/404NotFound/static/js/main.c4a51245.chunk.js",
+    "main.js.map": "/404NotFound/static/js/main.c4a51245.chunk.js.map",
+    "runtime-main.js": "/404NotFound/static/js/runtime-main.76375cf2.js",
+    "runtime-main.js.map": "/404NotFound/static/js/runtime-main.76375cf2.js.map",
+    "static/js/2.b9955f1c.chunk.js": "/404NotFound/static/js/2.b9955f1c.chunk.js",
+    "static/js/2.b9955f1c.chunk.js.map": "/404NotFound/static/js/2.b9955f1c.chunk.js.map",
+    "index.html": "/404NotFound/index.html",
+    "precache-manifest.bf89e596967143832daac398c288e2cf.js": "/404NotFound/precache-manifest.bf89e596967143832daac398c288e2cf.js",
+    "service-worker.js": "/404NotFound/service-worker.js",
+    "static/css/main.b11962fe.chunk.css.map": "/404NotFound/static/css/main.b11962fe.chunk.css.map",
+    "static/js/2.b9955f1c.chunk.js.LICENSE.txt": "/404NotFound/static/js/2.b9955f1c.chunk.js.LICENSE.txt",
+    "static/media/Scarecrow.png": "/404NotFound/static/media/Scarecrow.9f720a55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76375cf2.js",
+    "static/js/2.b9955f1c.chunk.js",
+    "static/css/main.b11962fe.chunk.css",
+    "static/js/main.c4a51245.chunk.js"
+  ]
+}
