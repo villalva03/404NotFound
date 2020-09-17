@@ -2,7 +2,7 @@
 
 Solution for a challenge from Devchallenges.io
 
-[Demo]() | [Solution]() | [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+[Demo]( https://villalva03.github.io/404NotFound/) | [Solution](https://devchallenges.io/solutions/tdI4rLtaHKhNoK1nSBUp) | [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
 ## Built With
 
